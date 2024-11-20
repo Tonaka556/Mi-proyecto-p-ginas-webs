@@ -307,3 +307,23 @@ ul.list a:hover {
         font-size: 1rem;
     }
 }
+
+.qr-container {
+    margin-top: 2rem; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.qr-code {
+    width: 120px; 
+    height: 120px;
+    object-fit: contain;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); 
+    transition: transform 0.3s ease;
+}
+
+.qr-code:hover {
+    transform: scale(1.05); 
+}

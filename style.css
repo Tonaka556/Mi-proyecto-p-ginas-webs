@@ -11,6 +11,11 @@
     --espaciado: 1rem;
 }
 
+html {
+  font-size: 62.5%;
+}
+
+
 /* Estilos globales */
 * {
     margin: 0;

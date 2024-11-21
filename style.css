@@ -11,14 +11,6 @@
     --espaciado: 1rem;
 }
 
-html {
-  font-size: 62.5%;
-}
-
-body {
-  font-size: 16px;
-}
-
 /* Estilos globales */
 * {
     margin: 0;
@@ -31,8 +23,17 @@ body {
     background-color: var(--color-fondo);
     color: var(--color-texto);
     line-height: 1.6;
-    font-size: 1rem;
+    font-size: 1.6rem;
 }
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 16px;
+}
+
 
 /* Navbar */
 .navbar {

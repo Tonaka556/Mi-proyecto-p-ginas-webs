@@ -26,6 +26,10 @@ body {
   font-size: 16px;
 }
 
+span{
+    color: darkred;
+}
+
 body {
     font-family: var(--fuente-secundaria);
     background-color: var(--color-fondo);

@@ -36,6 +36,10 @@ p {
     text-align: justify;
 }
 
+.social-icons bi-instagram i{
+    color: pink;
+}
+
 .navbar {
     background-color: var(--color-principal);
     padding: 1rem;

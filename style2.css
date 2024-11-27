@@ -30,6 +30,10 @@ span{
     color: darkred;
 }
 
+p{
+    text-align: justify;
+}
+
 body {
     font-family: var(--fuente-secundaria);
     background-color: var(--color-fondo);

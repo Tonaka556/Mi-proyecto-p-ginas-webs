@@ -2,7 +2,7 @@
 :root {
     --color-principal: #1F1F1F;
     --color-secundario: #E6A500; 
-    --color-texto: #F1F1F1; 
+    --color-texto: red; 
     --color-fondo: #121212;
     --color-footer: #343434;
     --color-enlace: #F1C232; 

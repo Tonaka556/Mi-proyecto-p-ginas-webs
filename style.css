@@ -38,6 +38,10 @@ span{
     color: red;
 }
 
+p{
+    text-align: justify;
+}
+
 /* Navbar */
 .navbar {
     background-color: var(--color-principal);

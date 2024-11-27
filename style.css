@@ -321,6 +321,10 @@ ul.list a:hover {
     .card-text {
         font-size: 1rem;
     }
+    .card-body {
+        justify-content: center; 
+        text-align: center;   
+    }
 }
 
 .qr-container {
